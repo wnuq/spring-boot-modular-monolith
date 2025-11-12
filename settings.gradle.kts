@@ -1,1 +1,1 @@
-rootProject.name = "spring.boot.modular.monolith"
+rootProject.name = "spring-boot-modular-monolith"
